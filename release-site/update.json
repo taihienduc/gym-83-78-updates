@@ -1,7 +1,7 @@
 {
-  "version": "1.3.0",
-  "versionCode": 4,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-83-78-v1.3.apk",
-  "sha256": "C273E52B6F012F587EE80CD6DA9ECCFAE04D882E15ADD3BC166703ADD604DC4D",
-  "notes": "Bản 1.3: chặn bài tập trùng trong cùng một ngày, tự ẩn dữ liệu trùng cũ và nhúng sẵn URL cập nhật."
+  "version": "1.4.0",
+  "versionCode": 5,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-83-78-v1.4.apk",
+  "sha256": "659D1DABF9FA78FB4D097C6AC7563206A8FE65C3916156DBB729EA8869235707",
+  "notes": "Bản 1.4: Health Connect đọc bước chân, nhịp tim và cân nặng; thực đơn luân phiên 4 tuần; theo dõi calo, macro và nước trực quan; giao diện mới; chặn bài tập trùng."
 }
