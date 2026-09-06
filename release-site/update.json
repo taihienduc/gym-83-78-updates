@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "versionCode": 3,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-83-78-v1.2.apk",
-  "sha256": "CA511D8F4A0DEE9D14BAF631538F9364CD275E0A7495A14EB6112053CD67D16E",
-  "notes": "Bản 1.2: kho 91 bài tập, ảnh món riêng và cập nhật bảo mật HTTPS."
+  "version": "1.3.0",
+  "versionCode": 4,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-83-78-v1.3.apk",
+  "sha256": "C273E52B6F012F587EE80CD6DA9ECCFAE04D882E15ADD3BC166703ADD604DC4D",
+  "notes": "Bản 1.3: chặn bài tập trùng trong cùng một ngày, tự ẩn dữ liệu trùng cũ và nhúng sẵn URL cập nhật."
 }
