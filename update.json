@@ -1,7 +1,7 @@
 {
-  "version": "1.10.0",
-  "versionCode": 11,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-cua-anh-v1.10.apk",
-  "sha256": "55B7638A0CDA6D9734CCB6B857672021C1ED13500D2AC658161A0F93DA7CF956",
-  "notes": "Lịch PPL 6 ngày mới cân đối theo kiểu chuyển động; tự nâng lịch cũ nhưng giữ lịch sử; khảo sát tự mở khi cài mới với giao diện 5 bước và xem trước lịch tuần."
+  "version": "1.11.0",
+  "versionCode": 12,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.11.apk",
+  "sha256": "8A6281342036BF46D422837D56FFE839D9C2DFEFEE428D3DCD3D383977D5E215",
+  "notes": "Đổi tên thành Gym Béo; onboarding có tên, kiểm tra dữ liệu và lưu bản nháp; lịch A/B có khối lượng nhóm cơ, thời lượng và đổi thứ tự; màn tập có khởi động, hoàn tác, kỷ lục, bài hiện tại/tiếp theo; dashboard tùy sắp xếp; dinh dưỡng sao chép hôm qua; nhắc sao lưu và giao diện cập nhật mới."
 }
