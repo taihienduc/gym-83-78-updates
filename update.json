@@ -1,7 +1,7 @@
 {
-  "version": "1.14.0",
-  "versionCode": 15,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.14.apk",
-  "sha256": "9B9C2C8894C2E3F1CD247A85C81AEBAFBB2F169AD0568512E8B9F05016B28DED",
-  "notes": "Hiển thị rõ buổi đã hoàn thành và kết quả từng bài; đánh dấu trong lịch; cảnh báo trước khi tập trùng; chặn/lọc lịch sử thiếu reps dạng 30×0; minh bạch huấn luyện viên offline và kiến trúc AI an toàn."
+  "version": "1.15.0",
+  "versionCode": 16,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.15.apk",
+  "sha256": "677B64F0E21C039D5493B9A41D485558624DE61D3AF2391191C3B1E4C9680C75",
+  "notes": "Xem trước chi tiết buổi tập ngay trong Lịch; chạm từng bài để xem ảnh và hướng dẫn mà không cần bắt đầu; Tiến độ được chia gọn thành Tổng quan, Sức khỏe và Hình thể."
 }
