@@ -1,7 +1,7 @@
 {
-  "version": "1.9.0",
-  "versionCode": 10,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-cua-anh-v1.9.apk",
-  "sha256": "6C98A45724860C27F0662BCB44D603A6141E5F5E055AD23F4FB04E0BFBD24042",
-  "notes": "Dashboard mới; biểu đồ cân 7 ngày, vòng eo, sức mạnh, calo/protein và tuân thủ; ảnh hình thể kèm cân/vòng eo; buổi nhanh 20–30 phút; đổi bài theo thiết bị và cảnh báo đau."
+  "version": "1.10.0",
+  "versionCode": 11,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-cua-anh-v1.10.apk",
+  "sha256": "55B7638A0CDA6D9734CCB6B857672021C1ED13500D2AC658161A0F93DA7CF956",
+  "notes": "Lịch PPL 6 ngày mới cân đối theo kiểu chuyển động; tự nâng lịch cũ nhưng giữ lịch sử; khảo sát tự mở khi cài mới với giao diện 5 bước và xem trước lịch tuần."
 }
