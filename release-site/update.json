@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
-  "versionCode": 6,
-  "apkUrl": "https://github.com/taihienduc/gym-83-78-updates/releases/download/v1.5/Gym-83-78-v1.5.apk",
-  "sha256": "017A316D09160A3ACDAEB2B349BAFBA8CA2FBDA81E277FBB2FF14780C5F6C2B7",
-  "notes": "Bản 1.5: APK nhẹ hơn; cập nhật bằng trình tải Android; tách calo nền, bước chân, gym và cardio; chỉ tính món đã ăn; 52 thực đơn tuần; nhật ký ảnh hình thể; tên mới Gym của anh."
+  "version": "1.6.0",
+  "versionCode": 7,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-cua-anh-v1.6.apk",
+  "sha256": "58231FD836B74DC81A90683502C16138B1DBAA17CCF38735664F653462686EC2",
+  "notes": "Bản 1.6: khảo sát 5 bước; đánh giá thời hạn; tự tính calo, macro, bước và cardio; sinh lịch 2–6 buổi theo kinh nghiệm, thời gian, thiết bị và hạn chế; thực đơn co khẩu phần theo mục tiêu; giải thích lý do đề xuất."
 }

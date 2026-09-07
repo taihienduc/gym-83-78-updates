@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "versionCode": 5,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-83-78-v1.4.apk",
-  "sha256": "659D1DABF9FA78FB4D097C6AC7563206A8FE65C3916156DBB729EA8869235707",
-  "notes": "Bản 1.4: Health Connect đọc bước chân, nhịp tim và cân nặng; thực đơn luân phiên 4 tuần; theo dõi calo, macro và nước trực quan; giao diện mới; chặn bài tập trùng."
+  "version": "1.6.0",
+  "versionCode": 7,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-cua-anh-v1.6.apk",
+  "sha256": "58231FD836B74DC81A90683502C16138B1DBAA17CCF38735664F653462686EC2",
+  "notes": "Bản 1.6: khảo sát 5 bước; đánh giá thời hạn; tự tính calo, macro, bước và cardio; sinh lịch 2–6 buổi theo kinh nghiệm, thời gian, thiết bị và hạn chế; thực đơn co khẩu phần theo mục tiêu; giải thích lý do đề xuất."
 }
