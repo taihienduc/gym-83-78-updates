@@ -1,7 +1,7 @@
 {
-  "version": "1.12.0",
-  "versionCode": 13,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.12.apk",
-  "sha256": "B0708B690F53D2BF89E70A2DCB7B55339A563F212599671437BE50BA3ACF4E37",
-  "notes": "Logo Gym Béo mới trên icon, splash và trong app; sửa ảnh món theo đúng món được đề xuất; loại màn dinh dưỡng cũ trùng chức năng; dọn cảnh báo giao diện và bổ sung kiểm thử ánh xạ ảnh."
+  "version": "1.13.0",
+  "versionCode": 14,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.13.apk",
+  "sha256": "F1ADBD4CDF498E9EBC8F280EF91C2E81F5FC90853BF5F56D911ABBAE063395E4",
+  "notes": "Health Connect tự đồng bộ và thêm calo, quãng đường, giấc ngủ; nhật ký ảnh cơ thể theo tháng; đồng hồ và đánh giá buổi tập; chu kỳ 6 tuần, bài phụ thông minh và mở nhanh YouTube Music."
 }
