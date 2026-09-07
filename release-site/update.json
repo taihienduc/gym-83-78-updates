@@ -1,7 +1,7 @@
 {
-  "version": "1.8.0",
-  "versionCode": 9,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-cua-anh-v1.8.apk",
-  "sha256": "4CADBA0A616F64671249EA6E7B486A9817AC1D6B427AEA6D1CD788455196AC26",
-  "notes": "Dinh dưỡng thích ứng: lọc dị ứng và món không thích; đổi món giữ kcal/macro; 3–5 bữa theo thời gian nấu và ngân sách; món yêu thích; công thức cá nhân; danh sách mua sắm tuần; hiển thị độ đầy đủ nhật ký ăn."
+  "version": "1.9.0",
+  "versionCode": 10,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-cua-anh-v1.9.apk",
+  "sha256": "6C98A45724860C27F0662BCB44D603A6141E5F5E055AD23F4FB04E0BFBD24042",
+  "notes": "Dashboard mới; biểu đồ cân 7 ngày, vòng eo, sức mạnh, calo/protein và tuân thủ; ảnh hình thể kèm cân/vòng eo; buổi nhanh 20–30 phút; đổi bài theo thiết bị và cảnh báo đau."
 }
