@@ -1,7 +1,7 @@
 {
-  "version": "1.13.0",
-  "versionCode": 14,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.13.apk",
-  "sha256": "EC8B2EAC740667809D8FC190A98A5B9C11CBE2484343C9B5065A18F5B93011DD",
-  "notes": "Health Connect tự đồng bộ và thêm calo, quãng đường, giấc ngủ; nhật ký ảnh cơ thể theo tháng; đồng hồ và đánh giá buổi tập/ngày; chu kỳ 6 tuần, bài phụ thông minh và mở nhanh YouTube Music."
+  "version": "1.14.0",
+  "versionCode": 15,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.14.apk",
+  "sha256": "9B9C2C8894C2E3F1CD247A85C81AEBAFBB2F169AD0568512E8B9F05016B28DED",
+  "notes": "Hiển thị rõ buổi đã hoàn thành và kết quả từng bài; đánh dấu trong lịch; cảnh báo trước khi tập trùng; chặn/lọc lịch sử thiếu reps dạng 30×0; minh bạch huấn luyện viên offline và kiến trúc AI an toàn."
 }
