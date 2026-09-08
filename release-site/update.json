@@ -1,7 +1,7 @@
 {
-  "version": "1.21.0",
-  "versionCode": 22,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.21.apk",
-  "sha256": "EDC1B5E5F18FB49A1BC067F699DACDB41F1282C1DA9002E60B74CF101013D63C",
-  "notes": "Thêm 43 ảnh người minh họa đã đối chiếu từ nguồn dữ liệu public-domain; mở rộng Trợ lý Gym Béo offline với kỹ thuật, dụng cụ, ăn uống thực tế và cách dùng kho bài tập."
+  "version": "1.22.0",
+  "versionCode": 23,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.22.apk",
+  "sha256": "82DC621BC535B7D742FDE2587628227D528C1B6997CB61BB88E096566CC6235D",
+  "notes": "Bổ sung Pull-up, Chin-up, Inverted Row; toàn bộ 146 bài trong lịch và kho đều có ảnh người offline khớp động tác."
 }
