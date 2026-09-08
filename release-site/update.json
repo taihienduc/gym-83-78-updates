@@ -1,7 +1,7 @@
 {
-  "version": "1.15.0",
-  "versionCode": 16,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.15.apk",
-  "sha256": "677B64F0E21C039D5493B9A41D485558624DE61D3AF2391191C3B1E4C9680C75",
-  "notes": "Xem trước chi tiết buổi tập ngay trong Lịch; chạm từng bài để xem ảnh và hướng dẫn mà không cần bắt đầu; Tiến độ được chia gọn thành Tổng quan, Sức khỏe và Hình thể."
+  "version": "1.17.0",
+  "versionCode": 18,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.17.apk",
+  "sha256": "3873CAEA1BD703905DA0752B533FC4F90A2B538A94A0BCE9ACD1A1A805B715AE",
+  "notes": "Trợ lý offline 60 câu hỏi; mỗi buổi có 6 bài chính và 3 bài tùy chọn; báo cáo tuần, sửa/xóa buổi tập, nhắc việc cục bộ, ăn ngoài, khẩu phần không cần cân, gợi ý món theo nguyên liệu, mua sắm có giá dự kiến và chế độ hiển thị mới."
 }
