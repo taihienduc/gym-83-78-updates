@@ -1,7 +1,7 @@
 {
-  "version": "1.20.0",
-  "versionCode": 21,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.20.apk",
-  "sha256": "F8B1B7A04B2B97463E4AA68ED92468411A8E534F2F7644F9C7359557774EA1AF",
-  "notes": "Mở rộng kho lên 143 bài tập; bổ sung bài đòn tạ cho ngực, tay, chân; sửa ảnh minh họa; cho phép đổi, xóa bài trong lịch tuần và ngay trong buổi đang tập; hoàn thiện hiển thị trên màn hình nhỏ."
+  "version": "1.21.0",
+  "versionCode": 22,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.21.apk",
+  "sha256": "EDC1B5E5F18FB49A1BC067F699DACDB41F1282C1DA9002E60B74CF101013D63C",
+  "notes": "Thêm 43 ảnh người minh họa đã đối chiếu từ nguồn dữ liệu public-domain; mở rộng Trợ lý Gym Béo offline với kỹ thuật, dụng cụ, ăn uống thực tế và cách dùng kho bài tập."
 }
