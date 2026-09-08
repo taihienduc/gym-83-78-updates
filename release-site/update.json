@@ -1,7 +1,7 @@
 {
-  "version": "1.18.0",
-  "versionCode": 19,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.18.apk",
-  "sha256": "88771F813C7FE49BA833EED318ABA4B569379591E07FD37FA8CC5395C1DB881D",
-  "notes": "Tối ưu toàn bộ UI/UX mà không đổi dữ liệu: chữ dễ đọc hơn, vùng bấm lớn hơn, bố cục Hôm nay và Dinh dưỡng hợp lý hơn, light/dark mode rõ ràng, chuyển tab về đầu trang và sửa màn tập trung."
+  "version": "1.19.0",
+  "versionCode": 20,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.19.apk",
+  "sha256": "18D76417047FFD5BBE64E45D9C6B457F2E7BA1DA5236682A382A7809835821FE",
+  "notes": "Sửa toàn diện lỗi màu và chồng nút; chuẩn hóa giao diện 320–390 px, chế độ tối/chữ lớn; sửa calo Health Connect, giữ nguyên lịch sử ăn, tính lại buổi tập, sao lưu an toàn và cập nhật APK có thể tiếp tục sau khi mở lại app."
 }
