@@ -1,7 +1,7 @@
 {
-  "version": "1.27.0",
-  "versionCode": 28,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.27.apk",
-  "sha256": "03C95DEAE373B86ECB8BE4D33E5BFF31CB99ECEE0ABFFC2930345A6E1DA41AA2",
-  "notes": "Thêm Điểm danh buổi đã tập ngay đầu màn Lịch: chọn buổi, ngày gần đây và thời lượng để khôi phục lịch sử sau khi mất dữ liệu; không tự tạo tạ hoặc số lần, chặn điểm danh trùng. Giao diện gọn, tối ưu màn 320/390 px."
+  "version": "1.28.0",
+  "versionCode": 29,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.28.apk",
+  "sha256": "4566A1CEB1E0DC87C7A6161D6044BE6A605B1A919798C760CDE36ABFF39686D6",
+  "notes": "Sửa trạng thái lịch theo đúng ngày của tuần: điểm danh xong hiện dấu Đã tập và không thể bắt đầu lại buổi đó; tuần mới tự về Chưa tập nhưng giữ lịch sử. Thêm tổng hợp Thứ 2–Chủ nhật cho tập luyện và dinh dưỡng, tối ưu thẻ lịch trên màn hình nhỏ."
 }
