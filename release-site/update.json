@@ -1,7 +1,7 @@
 {
-  "version": "1.22.0",
-  "versionCode": 23,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.22.apk",
-  "sha256": "82DC621BC535B7D742FDE2587628227D528C1B6997CB61BB88E096566CC6235D",
-  "notes": "Bổ sung Pull-up, Chin-up, Inverted Row; toàn bộ 146 bài trong lịch và kho đều có ảnh người offline khớp động tác."
+  "version": "1.23.0",
+  "versionCode": 24,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.23.apk",
+  "sha256": "B201AAB135DA3EF4B4A4D6314E334555C05C8A98B074B2E54B0E952CADDDEE8B",
+  "notes": "Đổi lịch 6 ngày: Ngực + Tay sau + Bụng; Lưng + Tay trước; Vai là chính + 3 bài chân, lặp A/B và có cardio nhẹ theo ngày."
 }
