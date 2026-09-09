@@ -1,7 +1,7 @@
 {
-  "version": "1.26.0",
-  "versionCode": 27,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.26.apk",
-  "sha256": "5348D04D1ED988D297E5250EE5B6F26BE6A34D879F5850C34A8DB370AEFF4B9A",
-  "notes": "Giao diện 1.26 gọn và dễ dùng hơn trên toàn ứng dụng: Hôm nay có lối tắt rõ, Lịch và màn đang tập ưu tiên hành động chính, đổi bài có bước xác nhận, Dinh dưỡng và Tiến độ dễ quét, Cài đặt chia nhóm; tối ưu màn 320/390 px, chế độ sáng/tối và chữ lớn."
+  "version": "1.27.0",
+  "versionCode": 28,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.27.apk",
+  "sha256": "03C95DEAE373B86ECB8BE4D33E5BFF31CB99ECEE0ABFFC2930345A6E1DA41AA2",
+  "notes": "Thêm Điểm danh buổi đã tập ngay đầu màn Lịch: chọn buổi, ngày gần đây và thời lượng để khôi phục lịch sử sau khi mất dữ liệu; không tự tạo tạ hoặc số lần, chặn điểm danh trùng. Giao diện gọn, tối ưu màn 320/390 px."
 }
