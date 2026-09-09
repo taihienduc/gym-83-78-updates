@@ -1,7 +1,7 @@
 {
-  "version": "1.24.0",
-  "versionCode": 25,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.24.apk",
-  "sha256": "4FACACCC02484DFADBC766632D18D16C3E605D10990AC7D7E2A4E844579D0F8B",
-  "notes": "Tăng lên 8 bài chính mỗi buổi: 4 ngực + 3 tay sau + bụng; 5 lưng/xô + 3 tay trước; 5 vai + 3 chân. Thêm 2 bài tùy chọn cho hôm khỏe, bánh xe bụng, gập bụng trên xà, nhảy dây và xe đạp đúng ngày."
+  "version": "1.25.0",
+  "versionCode": 26,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.25.apk",
+  "sha256": "CB861793C81A80469D0E7EB30FAF78FAE9E47DF15506316ED9B9C232714638BE",
+  "notes": "Hướng dẫn bài tập mới có hai ảnh Bắt đầu/Kết thúc, mũi tên và bốn bước chi tiết. Đổi bài hiển thị ảnh lớn, tự lọc cùng nhóm cơ; Cài đặt được chia danh mục và sửa tương phản sáng/tối."
 }
