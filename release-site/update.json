@@ -1,7 +1,7 @@
 {
-  "version": "1.25.0",
-  "versionCode": 26,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.25.apk",
-  "sha256": "CB861793C81A80469D0E7EB30FAF78FAE9E47DF15506316ED9B9C232714638BE",
-  "notes": "Hướng dẫn bài tập mới có hai ảnh Bắt đầu/Kết thúc, mũi tên và bốn bước chi tiết. Đổi bài hiển thị ảnh lớn, tự lọc cùng nhóm cơ; Cài đặt được chia danh mục và sửa tương phản sáng/tối."
+  "version": "1.26.0",
+  "versionCode": 27,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.26.apk",
+  "sha256": "5348D04D1ED988D297E5250EE5B6F26BE6A34D879F5850C34A8DB370AEFF4B9A",
+  "notes": "Giao diện 1.26 gọn và dễ dùng hơn trên toàn ứng dụng: Hôm nay có lối tắt rõ, Lịch và màn đang tập ưu tiên hành động chính, đổi bài có bước xác nhận, Dinh dưỡng và Tiến độ dễ quét, Cài đặt chia nhóm; tối ưu màn 320/390 px, chế độ sáng/tối và chữ lớn."
 }
