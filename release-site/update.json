@@ -1,7 +1,7 @@
 {
-  "version": "1.28.0",
-  "versionCode": 29,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.28.apk",
-  "sha256": "4566A1CEB1E0DC87C7A6161D6044BE6A605B1A919798C760CDE36ABFF39686D6",
-  "notes": "Sửa trạng thái lịch theo đúng ngày của tuần: điểm danh xong hiện dấu Đã tập và không thể bắt đầu lại buổi đó; tuần mới tự về Chưa tập nhưng giữ lịch sử. Thêm tổng hợp Thứ 2–Chủ nhật cho tập luyện và dinh dưỡng, tối ưu thẻ lịch trên màn hình nhỏ."
+  "version": "1.29.0",
+  "versionCode": 30,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.29.apk",
+  "sha256": "3AB3ABBB1E3046D1B4EAF8B63F9C48A98C1DBD6B5526782EE33F19D51C966DDE",
+  "notes": "Trong Kho bài tập, chạm ảnh hoặc tên bài trong buổi đang chọn để mở hai ảnh lớn Bắt đầu/Kết thúc, tên, dụng cụ và hướng dẫn; có thể đổi sang bài khác ngay từ phần xem chi tiết. Tối ưu cho màn hình điện thoại."
 }
