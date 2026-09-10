@@ -1,7 +1,7 @@
 {
-  "version": "1.31.0",
-  "versionCode": 32,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.31.apk",
-  "sha256": "C8BCDB2DD38FA99D76003AFBBF91FAE9F0475E2902DBB71F77349CB378CD65DA",
-  "notes": "Khóa nút đánh dấu hiệp trong lúc nghỉ; mở bài tự cuộn về đầu; bỏ nền ô số hiệp và các mũi tên sắp xếp thẻ Hôm nay; tắt hoặc hoàn tác đồng hồ sẽ hủy thông báo nghỉ cũ."
+  "version": "1.32.0",
+  "versionCode": 33,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.32.apk",
+  "sha256": "A6644AE1A5A134DAFEAA459C3A75E0B065D2B949A39229E82A27A246E6CA2C55",
+  "notes": "Nghỉ bệnh không tính là bỏ tập, lịch ngày mai giữ nguyên và có tập bù; kho 30 món tìm/lọc/đổi món trong popup, ảnh-tên đã đối chiếu; sửa nút hoàn thành buổi tập."
 }
