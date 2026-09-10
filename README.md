@@ -10,9 +10,9 @@ Nội dung công khai gồm:
 
 Kho này **không chứa mã nguồn, khóa ký APK hoặc dữ liệu người dùng**.
 
-Phiên bản mới nhất: **1.35.0** (`versionCode 36`)
+Phiên bản mới nhất: **1.36.0** (`versionCode 37`)
 
-- Tải APK: <https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.35.apk>
-- SHA-256: `53D01C7648FCBBE248D1D2BC4EDA4834F8FB3B51109C8AC77896366091015EEC`
+- Tải APK: <https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.36.apk>
+- SHA-256: `4D9C4213E48379E48747C892FE2878A9D345D37261AD92E3BEC8A915F1EA2DA4`
 
 Manifest cập nhật: <https://taihienduc.github.io/gym-83-78-updates/update.json>

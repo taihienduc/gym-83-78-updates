@@ -1,7 +1,7 @@
 {
-  "version": "1.35.0",
-  "versionCode": 36,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.35.apk",
-  "sha256": "53D01C7648FCBBE248D1D2BC4EDA4834F8FB3B51109C8AC77896366091015EEC",
-  "notes": "Ảnh món ăn đúng nhóm, công thức định lượng chi tiết và lịch nghỉ bệnh"
+  "version": "1.36.0",
+  "versionCode": 37,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.36.apk",
+  "sha256": "4D9C4213E48379E48747C892FE2878A9D345D37261AD92E3BEC8A915F1EA2DA4",
+  "notes": "Tập lại/tập bù rõ ràng và sửa chồng giao diện màn hẹp"
 }
