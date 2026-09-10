@@ -1,7 +1,7 @@
 {
-  "version": "1.33.0",
-  "versionCode": 34,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.33.apk",
-  "sha256": "5BBF3919F53548A88487CFFBB93CD59AE0D2CB6D829D2C041624641FA08D6A70",
-  "notes": "Tập bù có thẻ riêng dễ tìm; lịch cá nhân gom bài cùng nhóm cơ; kho 40 món bấm xem ảnh, nguyên liệu và cách làm; thêm cá hồi, bò, tôm, cá và ức gà."
+  "version": "1.34.0",
+  "versionCode": 35,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.34.apk",
+  "sha256": "AC5B281DED5CCADFD0ABF7A417585E944CB7D04B66F78AE838EE7EAF6B491950",
+  "notes": "100 món ăn, công thức chi tiết và nút Nghỉ hôm nay dễ thấy"
 }
