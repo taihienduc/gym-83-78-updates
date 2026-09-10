@@ -1,7 +1,7 @@
 {
-  "version": "1.30.0",
-  "versionCode": 31,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.30.apk",
-  "sha256": "9B30FC2F6D297353F5F89AEB81EA349EE804919EE1B4588C3CFC26B8BDBF8CC1",
-  "notes": "Đổi giao diện xem và thay bài sang popup gần toàn màn hình: ảnh lớn, hướng dẫn dễ đọc, nút Đóng/Đổi luôn ở dưới; tìm và chọn bài thay thế ngay trong popup, không phải kéo qua lại trên trang."
+  "version": "1.31.0",
+  "versionCode": 32,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.31.apk",
+  "sha256": "C8BCDB2DD38FA99D76003AFBBF91FAE9F0475E2902DBB71F77349CB378CD65DA",
+  "notes": "Khóa nút đánh dấu hiệp trong lúc nghỉ; mở bài tự cuộn về đầu; bỏ nền ô số hiệp và các mũi tên sắp xếp thẻ Hôm nay; tắt hoặc hoàn tác đồng hồ sẽ hủy thông báo nghỉ cũ."
 }
