@@ -1,7 +1,7 @@
 {
-  "version": "1.40.0",
-  "versionCode": 41,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.40.apk",
-  "sha256": "9ED45104460211F4A4E155862F7FBD39894656F98B4B0DB74EFF9F58706245AC",
-  "notes": "Màn tập thu gọn; sửa chỉ báo bài chính tiếp theo và trạng thái hoàn tất, không trỏ nhầm bài tùy chọn."
+  "version": "1.41.0",
+  "versionCode": 42,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.41.apk",
+  "sha256": "EF92B75C708F40226847684133AA90927002BE2747573D61ACD7E014AF512393",
+  "notes": "Nhấn giữ và kéo để sắp xếp bài, tự lưu cho các tuần sau; bố cục kho bài rõ ảnh, tên, Đổi và Xóa."
 }
