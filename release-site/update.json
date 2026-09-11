@@ -1,7 +1,7 @@
 {
-  "version": "1.43.0",
-  "versionCode": 44,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.43.apk",
-  "sha256": "810EAB1C1610B1C3FE9F18B4948A0CC20012082F5DAD8476680443B32DF97B08",
-  "notes": "Ảnh kho bài lớn đúng ô, Đổi/Xóa thành hai nút vuông gọn; khung đổi lịch 2 ngày hiện ngay đầu lịch và chỉ áp dụng tuần hiện tại."
+  "version": "1.44.0",
+  "versionCode": 45,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.44.apk",
+  "sha256": "9B3CE806E275330C8CBCB528EDB5FB5FFDC822AC44A10F1717A492A7CAC9028F",
+  "notes": "Sửa lịch sử calo món ghim, chế độ 2 bữa/ngày, lọc món kiêng theo từ chính xác và chuẩn hóa điểm chạm trên màn hình tập/dinh dưỡng."
 }
