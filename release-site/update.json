@@ -1,7 +1,7 @@
 {
-  "version": "1.37.0",
-  "versionCode": 38,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.37.apk",
-  "sha256": "6F1B73CC753C3C8F4C54EFA7081D43B6A3C81551E7AB5E929E8696F711DBEA4B",
-  "notes": "Kho 300 món: mỗi món có ảnh hoàn thiện riêng, nguyên liệu và hướng dẫn chế biến chi tiết."
+  "version": "1.38.0",
+  "versionCode": 39,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.38.apk",
+  "sha256": "8CD4D4C10E76200A02B5DEB6AAA6D44F129AD25F65EFFBA9AD2F96E458E58B95",
+  "notes": "Ảnh bài tập ngay trong danh sách buổi tập; đổi ưu tiên bài lên/xuống; đổi lịch giữa hai ngày; kho 300 món Việt healthy có ảnh đúng công thức, nguyên liệu nguồn và hướng dẫn chi tiết; tối ưu dung lượng ảnh offline."
 }
