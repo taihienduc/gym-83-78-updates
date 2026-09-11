@@ -1,7 +1,7 @@
 {
-  "version": "1.41.0",
-  "versionCode": 42,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.41.apk",
-  "sha256": "EF92B75C708F40226847684133AA90927002BE2747573D61ACD7E014AF512393",
-  "notes": "Nhấn giữ và kéo để sắp xếp bài, tự lưu cho các tuần sau; bố cục kho bài rõ ảnh, tên, Đổi và Xóa."
+  "version": "1.42.0",
+  "versionCode": 43,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.42.apk",
+  "sha256": "4B3E0A787634BA8B7134965F22D92793844442ED828DA41B664E54BCBF868B81",
+  "notes": "Sửa kéo bài trên Android bằng tay nắm riêng; ảnh kho bài lớn hơn, Đổi/Xóa gọn; đổi lịch chỉ áp dụng tuần hiện tại."
 }
