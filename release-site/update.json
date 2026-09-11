@@ -1,7 +1,7 @@
 {
-  "version": "1.39.0",
-  "versionCode": 40,
-  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.39.apk",
-  "sha256": "054D483075C74AC5A80CB3172EA4F9CBD476045521B3F17B9817B76DA24A1674",
-  "notes": "Thu gọn màn tập: không tự mở bài; ảnh và hướng dẫn kỹ thuật chỉ hiện khi bấm xem."
+  "version": "1.40.0",
+  "versionCode": 41,
+  "apkUrl": "https://taihienduc.github.io/gym-83-78-updates/Gym-Beo-v1.40.apk",
+  "sha256": "9ED45104460211F4A4E155862F7FBD39894656F98B4B0DB74EFF9F58706245AC",
+  "notes": "Màn tập thu gọn; sửa chỉ báo bài chính tiếp theo và trạng thái hoàn tất, không trỏ nhầm bài tùy chọn."
 }
